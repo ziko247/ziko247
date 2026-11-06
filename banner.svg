@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Zakaria Elmazghi — Data Science and AI</title>
+  <desc id="desc">A dark terminal banner with mint and blue accents. Final-year student in Casablanca, building practical AI systems.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#142536"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#79c0ff" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="358" rx="18" fill="url(#bg)" stroke="#303d4d"/>
+  <rect x="1" y="1" width="1198" height="358" rx="18" fill="url(#grid)"/>
+  <path d="M1 55H1199" stroke="#303d4d"/>
+  <circle cx="30" cy="28" r="6" fill="#ff5f57"/><circle cx="52" cy="28" r="6" fill="#febc2e"/><circle cx="74" cy="28" r="6" fill="#28c840"/>
+  <g font-family="Consolas, 'Courier New', monospace">
+    <text x="105" y="34" fill="#8b9caf" font-size="15">ziko247 / profile</text>
+    <text x="48" y="107" fill="#7ee7b7" font-size="19">$ whoami</text>
+    <text x="46" y="170" fill="#f0f6fc" font-size="46" font-weight="700">Zakaria Elmazghi</text>
+    <text x="48" y="210" fill="#79c0ff" font-size="23">Data Science &amp; Artificial Intelligence</text>
+    <text x="48" y="259" fill="#b4c1d0" font-size="18">Final-year student · Casablanca, Morocco</text>
+    <text x="48" y="310" fill="#7ee7b7" font-size="18">&gt; Building practical AI, from data to deployment.</text>
+    <path d="M989 133L1027 170L989 207M1054 211H1107" stroke="#7ee7b7" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity=".75"/>
+  </g>
+</svg>
