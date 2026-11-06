@@ -26,7 +26,7 @@ ziko247@github:~$ cat focus.txt
 
 <!-- Replace each example.com URL with a public repository, demo, or case study. -->
 
-### 🛡️ Devoteam — Cybersecurity Alert Triage
+### Devoteam — Cybersecurity Alert Triage
 **Internship · July–October 2026**
 
 Built a hybrid alert triage system combining machine learning with automated agentic workflows to support cybersecurity alert analysis.
@@ -35,7 +35,7 @@ Built a hybrid alert triage system combining machine learning with automated age
 
 [Project / case study ↗](https://example.com/devoteam-project)
 
-### 📄 Digrow — Document Verification & CV Builder
+### Digrow — Document Verification & CV Builder
 **Internship · October 2026**
 
 Developed an AI-powered document verification pipeline and a real-time CV builder, combining vision LLMs and computer vision with a modern web application.
@@ -44,7 +44,7 @@ Developed an AI-powered document verification pipeline and a real-time CV builde
 
 [Project / case study ↗](https://example.com/digrow-project)
 
-### 🤟 Sign Language Translator
+### Sign Language Translator
 **May–October 2026**
 
 Built a real-time web application for sign language translation using hand tracking and an LSTM gesture recognition model, with a local Llama 3.2 model running through Ollama.
@@ -53,7 +53,7 @@ Built a real-time web application for sign language translation using hand track
 
 [Repository / demo ↗](https://example.com/sign-language-project)
 
-### 🦾 Haraka.ai — Edge-AI Tele-rehabilitation
+### Haraka.ai — Edge-AI Tele-rehabilitation
 **HackAI · UM6P Benguerir · May 2026**
 
 Built a tele-rehabilitation application that tracks 33 skeletal joint angles and compresses the resulting data into a **5 KB JSON payload**, paired with LLM-generated clinical summaries.
