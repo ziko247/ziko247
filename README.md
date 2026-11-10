@@ -5,7 +5,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=7EE7B7&center=true&vCenter=true&width=700&height=50&lines=Turning+data+into+practical+AI+systems.;Exploring+multimodal+RAG+and+AI+agents.;Building+with+Python+and+computer+vision." alt="Animated introduction: practical AI systems, multimodal RAG, AI agents, and computer vision" />
 </p>
-
+![Hero](https://coolreadme.xyz/api/hacker?user=ziko247&status=SHIPPING+CODE&accent=%2300FF88)
+![Avatar](https://coolreadme.xyz/api/avatar-card?user=ziko247&status=BUILDING&focus=open-source&theme=dark)
+![Streak](https://coolreadme.xyz/api/cat-card?user=ziko247&streak=42&longest=42&total=1240)
+![Project](https://coolreadme.xyz/api/projects-gallery?projects=my-project|Edge-rendered+README+cards|TypeScript|247)
 ## About me
 
 I'm **Zakaria Elmazghi**, a fifth-year **Data Science & AI student at LEMSI in Casablanca, Morocco**. I work mainly with Python, building machine learning pipelines, computer vision applications, and AI-powered workflows.
