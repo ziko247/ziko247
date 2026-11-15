@@ -19,57 +19,6 @@ ziko247@github:~$ cat focus.txt
   Approach   Build → Evaluate → Improve
 ```
 
-## Selected projects
-
-<!-- Replace each example.com URL with a public repository, demo, or case study. -->
-
-### Devoteam — Cybersecurity Alert Triage
-**Internship · July–October 2026**
-
-Built a hybrid alert triage system combining machine learning with automated agentic workflows to support cybersecurity alert analysis.
-
-`Python` `XGBoost` `FAISS` `n8n` `FastAPI`
-
-[Project / case study ↗](https://example.com/devoteam-project)
-
-### Digrow — Document Verification & CV Builder
-**Internship · October 2026**
-
-Developed an AI-powered document verification pipeline and a real-time CV builder, combining vision LLMs and computer vision with a modern web application.
-
-`Vision LLMs` `Computer Vision` `Next.js 14` `TypeScript` `React Hook Form` `Zod` `Supabase Storage`
-
-[Project / case study ↗](https://example.com/digrow-project)
-
-### Sign Language Translator
-**May–October 2026**
-
-Built a real-time web application for sign language translation using hand tracking and an LSTM gesture recognition model, with a local Llama 3.2 model running through Ollama.
-
-`Flask` `SocketIO` `MediaPipe` `Keras` `LSTM` `Ollama`
-
-[Repository / demo ↗](https://example.com/sign-language-project)
-
-### Haraka.ai — Edge-AI Tele-rehabilitation
-**HackAI · UM6P Benguerir · May 2026**
-
-Built a tele-rehabilitation application that tracks 33 skeletal joint angles and compresses the resulting data into a **5 KB JSON payload**, paired with LLM-generated clinical summaries.
-
-`MediaPipe Pose` `OpenCV` `Edge AI` `LLMs`
-
-[Repository / demo ↗](https://example.com/haraka-project)
-
-<details>
-<summary><strong>Earlier experience — Scalax web modules</strong></summary>
-
-**Internship · Scalax, a subsidiary of Reactivux · July–September 2025**
-
-Developed web application modules using JavaScript, Node.js, React, MongoDB, HTML, and CSS.
-
-[Project / case study ↗](https://example.com/scalax-project)
-
-</details>
-
 ## Currently building
 
 | Project | Focus |
